@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working on:
-  - [Sublime Text 4](https://www.sublimetext.com/) plugins and made my first one - [Taskfile](https://packagecontrol.io/packages/Taskfile)
-  - IoT stuff and diving into ESP/Arduino world, soldering my way through
-  - Opening a Hackerspace in my home town
-- 🌱 I’m currently learning advanced Golang topics, systems design and diving into NeoVim ecosystem
+  - the new podcast with [@vanadium23](https://github.com/vanadium23) called ["Два Ивана (название обсуждается)"](https://doubleivan.ru)
+  - my [blog](https://biozz.dev/blog/)
+  - and [a bunch of other projects](https://biozz.dev/projects/)
+- 🌱 I’m currently learning new ways to automate my setup, new habbits, knowledge management and a bit of psychology
 - 📫 How to reach me: [ielfimov@gmail.com](mailto:ielfimov@gmail.com)
